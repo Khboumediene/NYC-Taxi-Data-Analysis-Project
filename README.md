@@ -42,7 +42,7 @@ BIG/
 
 ## Pipeline de traitement des données
 
-(images/diagramme.png)
+<img src="./images/diagramme.png" alt="Pipeline Architecture Diagram">
 
 ```mermaid
 graph TD;
@@ -96,7 +96,7 @@ Les données analysées sont visualisées avec Vega-Lite dans Kibana. Voici quel
 
 Ces visualisations permettent d'identifier les tendances de transport et d'optimiser les services de taxi en fonction des comportements des passagers.
 
-(images/TableauDeBord.jpeg)
+<img src="./images/TableauDeBord.jpeg" alt="Pipeline TableauDeBord">
 
 ## Fonctionnalités principales
 
